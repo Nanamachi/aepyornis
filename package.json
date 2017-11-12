@@ -1,0 +1,27 @@
+{
+  "name": "aepyornis",
+  "version": "1.0.0",
+  "description": "SNS client for addicts",
+  "main": "index.js",
+  "dependencies": {
+    "onsenui": "^2.7.1"
+  },
+  "devDependencies": {
+    "angular": "^1.6.6",
+    "mastodon-api": "^1.3.0",
+    "onsenui": "^2.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nanamachi@github.com/nanamachi/aepyornis.git"
+  },
+  "author": "nanamachi",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/nanamachi/aepyornis/issues"
+  },
+  "homepage": "https://github.com/nanamachi/aepyornis#readme"
+}
