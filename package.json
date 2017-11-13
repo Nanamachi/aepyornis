@@ -1,8 +1,8 @@
 {
-  "name": "aepyornis-ionic",
+  "name": "aepyornis",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "nanamachi",
+  "homepage": "http://github.com/nanamachi/aepyornis",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
