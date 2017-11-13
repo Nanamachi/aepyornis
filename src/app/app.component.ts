@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component } from 'ngx-onsenui';
+import * as ons from 'onsenui';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Aepyornis';
+  constructor() {
+  }
+
+  onClick(){
+    ons.notification.alert('Clicked!');
+  }
 }
